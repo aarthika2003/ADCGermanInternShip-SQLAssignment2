@@ -1,0 +1,1 @@
+# ADCGermanInternShip-SQLAssignment2
